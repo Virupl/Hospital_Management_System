@@ -1,0 +1,4 @@
+appointmentId,date(DDMMYYYY),doctorId,patientId,startTime(in 24-hr format)
+1,07.02.23,1002,1201,9:00 Hrs to 10:00 Hrs
+2,07.02.23,1003,1202,9:00 Hrs to 10:00 Hrs
+3,07.02.23,1003,1201,9:00 Hrs to 10:00 Hrs
